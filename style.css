@@ -25,3 +25,20 @@ img {
 	opacity: 0.9;
 	margin-bottom: -1rem;
 }
+
+#refresh {
+	text-decoration: none;
+	color: inherit;
+	background-color: #ffffffaa;
+	font-size: 1.25rem;
+	padding: 1rem 1.25rem;
+	display: inline-block;
+	margin-top: 1rem;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+#refresh:hover {
+	background-color: #ffffff;
+	transform: translateY(-2px);
+}
